@@ -1,1 +1,1 @@
-#mostrar errores en pantalla de php
+# mostrar errores en pantalla de php
